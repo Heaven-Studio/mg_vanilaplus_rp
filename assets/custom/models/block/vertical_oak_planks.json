@@ -1,0 +1,6 @@
+{
+	"parent": "custom:block/vertical_block_template",
+	"textures": {
+		"texture": "minecraft:block/oak_planks"
+	}
+}
