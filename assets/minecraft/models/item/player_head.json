@@ -1,0 +1,45 @@
+{
+  "parent": "minecraft:item/template_skull",
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "custom:player/head"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "custom:player/norm/right_shoulder"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "custom:player/norm/left_shoulder"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "custom:player/norm/arm"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "custom:player/slim/right_shoulder"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "custom:player/slim/left_shoulder"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "custom:player/slim/arm"
+    },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "custom:player/body"
+    },
+    {
+      "predicate": { "custom_model_data": 9 },
+      "model": "custom:player/leg"
+    },
+    {
+        "predicate": { "custom_model_data": 10 },
+        "model": "custom:player/head_mini"
+      }
+  ]
+}

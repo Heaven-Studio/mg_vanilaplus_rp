@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "custom:item/loot_chest_2_key",
+        "layer1": "custom:item/loot_chest_2_key"
+	}
+}

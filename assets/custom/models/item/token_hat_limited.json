@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "custom:item/token/token_hat_limited",
+        "layer1": "custom:item/token/token_hat_limited"
+	}
+}

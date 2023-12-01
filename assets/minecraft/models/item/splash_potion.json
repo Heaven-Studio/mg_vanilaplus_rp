@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/splash_potion"
+    },
+    "overrides": 
+    [
+        {"predicate": { "custom_model_data": 1 }, "model": "custom:item/loot_chest_1_key"},
+        {"predicate": { "custom_model_data": 2 }, "model": "custom:item/loot_chest_2_key"},
+        {"predicate": { "custom_model_data": 3 }, "model": "custom:item/loot_chest_3_key"},
+        {"predicate": { "custom_model_data": 4 }, "model": "custom:item/loot_chest_4_key"},
+        {"predicate": { "custom_model_data": 5 }, "model": "custom:item/portable_crafting_table"},
+        {"predicate": { "custom_model_data": 6 }, "model": "custom:item/ender_bag"},
+        {"predicate": { "custom_model_data": 7 }, "model": "custom:item/ender_bag_open"},
+        {"predicate": { "custom_model_data": 8 }, "model": "custom:item/loot_chest_hallowen_key"},
+
+        {"predicate": { "custom_model_data": 100 }, "model": "custom:item/token_hat_common"},
+        {"predicate": { "custom_model_data": 101 }, "model": "custom:item/token_hat_uncommon"},
+        {"predicate": { "custom_model_data": 102 }, "model": "custom:item/token_hat_rare"},
+        {"predicate": { "custom_model_data": 103 }, "model": "custom:item/token_hat_epic"},
+        {"predicate": { "custom_model_data": 104 }, "model": "custom:item/token_hat_legendary"},
+        {"predicate": { "custom_model_data": 105 }, "model": "custom:item/token_hat_exotic"},
+        {"predicate": { "custom_model_data": 106 }, "model": "custom:item/token_hat_limited"}
+    ]
+}

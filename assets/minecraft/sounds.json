@@ -1,0 +1,118 @@
+{
+  "custom.money.interaction_with_coin": {
+    "sounds": [
+      "custom/money/interaction_with_coin_01",
+      "custom/money/interaction_with_coin_02",
+      "custom/money/interaction_with_coin_03",
+      "custom/money/interaction_with_coin_04",
+      "custom/money/interaction_with_coin_05",
+      "custom/money/interaction_with_coin_06"
+    ],
+    "replace": false, "subtitle": "subtitles.block.generic.break"
+  },
+  "custom.gui.ui_buy_button": {
+    "sounds": [
+      "custom/gui/ui_buy_button"
+    ]
+  },
+  "custom.eugene_music.power_drish_out": {
+    "sounds": [
+      "custom/eugene_music/power_drish_out"
+    ]
+  },
+  "custom.eugene_music.an_old_man_ballad": {
+    "sounds": [
+      "custom/eugene_music/an_old_man_ballad"
+    ]
+  },
+  "custom.eugene_music.dedka_scotch": {
+    "sounds": [
+      "custom/eugene_music/dedka_scotch"
+    ]
+  },
+  "custom.eugene_music.leska_bich": {
+    "sounds": [
+      "custom/eugene_music/leska_bich"
+    ]
+  },
+  "custom.eugene_music.litle_mech": {
+    "sounds": [
+      "custom/eugene_music/litle_mech"
+    ]
+  },
+  "custom.eugene_music.mxa_doxrena": {
+    "sounds": [
+      "custom/eugene_music/mxa_doxrena"
+    ]
+  },
+  "custom.eugene_music.na_kortiushax": {
+    "sounds": [
+      "custom/eugene_music/na_kortiushax"
+    ]
+  },
+  "custom.eugene_music.odinokiy_homyak": {
+    "sounds": [
+      "custom/eugene_music/odinokiy_homyak"
+    ]
+  },
+  "custom.eugene_music.oh_my_god": {
+    "sounds": [
+      "custom/eugene_music/oh_my_god"
+    ]
+  },
+  "custom.eugene_music.pridetsya_havat": {
+    "sounds": [
+      "custom/eugene_music/pridetsya_havat"
+	]
+  },
+  "custom.eugene_music.balada_beloj_akuly": {
+    "sounds": [
+      "custom/eugene_music/balada_beloj_akuly"
+    ]
+  },
+    "custom.eugene_music.gvozdoder": {
+    "sounds": [
+      "custom/eugene_music/gvozdoder"
+    ]
+  },
+    "custom.eugene_music.kartoshechka_rastet": {
+    "sounds": [
+      "custom/eugene_music/kartoshechka_rastet"
+    ]
+  },
+    "custom.eugene_music.lestnitca_hctoli": {
+    "sounds": [
+      "custom/eugene_music/lestnitca_hctoli"
+    ]
+  },
+    "custom.eugene_music.mnogo_hodok": {
+    "sounds": [
+      "custom/eugene_music/mnogo_hodok"
+    ]
+  },
+    "custom.eugene_music.mramornnyj_bob": {
+    "sounds": [
+      "custom/eugene_music/mramornnyj_bob"
+    ]
+  },
+    "custom.eugene_music.ot_u_do": {
+    "sounds": [
+      "custom/eugene_music/ot_u_do"
+    ]
+  },
+    "custom.eugene_music.seamoth_esli_shto": {
+    "sounds": [
+      "custom/eugene_music/seamoth_esli_shto"
+    ]
+  },
+    "custom.eugene_music.svezhaya_shkurka": {
+    "sounds": [
+      "custom/eugene_music/svezhaya_shkurka"
+    ]
+  },
+    "custom.eugene_music.yashichek_tut": {
+    "sounds": [
+      "custom/eugene_music/yashichek_tut"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "custom:item/skin/soul/soul_pickaxe"
+	}
+}

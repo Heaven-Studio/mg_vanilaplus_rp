@@ -1,0 +1,323 @@
+{
+	"providers": [
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/admin.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE001"]
+		},
+        {
+            "type": "bitmap",
+            "file": "custom:ui/tags/mod.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/tags/help.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE003"]
+        },
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/team.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE004"]
+		},
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/media.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE005"]
+		},
+        {
+            "type": "bitmap",
+            "file": "custom:ui/tags/seraphim.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/tags/ultra.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/tags/elite.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/tags/pro.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE009"]
+        },
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/vip.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE00a"]
+		},
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/player.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE00b"]
+		},
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/global.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE00c"]
+		},
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/chat.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE00d"]
+		},
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/talk.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE00e"]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom:ui/tags/common.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE00f"]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom:ui/tags/uncommon.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE010"]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom:ui/tags/rare.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE011"]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom:ui/tags/epic.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE012"]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom:ui/tags/legendary.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE013"]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom:ui/tags/exotic.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE014"]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom:ui/tags/paintable.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE015"]
+		},
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/owner.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE016"]
+		},
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/member.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE017"]
+		},
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/limited.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE018"]
+		},
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/exclusive.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE019"]
+		},
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/warn_red.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE01a"]
+		},
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/warn_green.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE01b"]
+		},
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/warn_yellow.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE01c"]
+		},
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/warn_discord.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE01d"]
+		},
+        {
+			"type": "bitmap",
+			"file": "custom:ui/tags/pvp.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE01e"]
+		},
+
+        {
+            "type": "bitmap",
+            "file": "custom:ui/icon/coin.png",
+            "ascent": -52,
+            "height": 11,
+            "chars": ["\uF001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/diamond_sword.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uF002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/diamond_axe.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uF003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/diamond_pickaxe.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uF004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/diamond_shovel.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uF005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/diamond_hoe.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uF006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/netherite_sword.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uF007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/netherite_axe.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uF008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/netherite_pickaxe.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uF009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/netherite_shovel.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uF00a"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/netherite_hoe.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uF00b"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/bow.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uF00c"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:item/diamond_hammer.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uF00e"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:item/netherite_hammer.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uF00f"]
+        },
+        
+        {
+            "type": "bitmap",
+            "file": "custom:ui/black_box.png",
+            "ascent": 800,
+            "height": 3000,
+            "chars": [
+                "\uD001"
+            ]
+        }
+	]
+}

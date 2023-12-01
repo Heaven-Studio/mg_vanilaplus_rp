@@ -1,0 +1,17 @@
+{
+   "crate.beginning_choir":{
+		 "sounds": [
+			"custom:crate_beginning_choir"
+		 ]
+	},
+   "crate.close":{
+		 "sounds": [
+			"custom:crate_close"
+		 ]
+	},
+   "crate.open":{
+		 "sounds": [
+			"custom:crate_open"
+		 ]
+	}
+}

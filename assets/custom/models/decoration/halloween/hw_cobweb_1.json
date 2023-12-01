@@ -1,0 +1,58 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "custom:item/decoration/halloween/hw_cobweb"
+	},
+	"elements": [
+		{
+			"from": [3.06147, 0, 0.60896],
+			"to": [3.06147, 16, 16.60896],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [3.06147, 8, 8.60896]},
+			"faces": {
+				"east": {"uv": [16, 16, 0, 0], "texture": "#1"},
+				"west": {"uv": [0, 16, 16, 0], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-0.60896, 0, 12.93853],
+			"to": [15.39104, 16, 12.93853],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [7.39104, 8, 12.93853]},
+			"faces": {
+				"north": {"uv": [0, 16, 16, 0], "texture": "#1"},
+				"south": {"uv": [16, 16, 0, 0], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 0, -180],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 0, -180],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 75, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"rotation": [180, 0, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [0, 112, 180],
+			"translation": [0, -1, 0]
+		},
+		"fixed": {
+			"rotation": [0, 20, 180],
+			"translation": [-3, -1, -4.75]
+		}
+	}
+}

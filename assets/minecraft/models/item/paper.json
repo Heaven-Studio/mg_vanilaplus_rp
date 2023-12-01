@@ -1,0 +1,61 @@
+{
+	"parent":"minecraft:item/generated",
+	"textures":
+	{
+		"layer0":"minecraft:item/paper"
+	},
+	"overrides": 
+	[
+		{"predicate": { "custom_model_data": 1 }, "model": "custom/painting/dante"},
+		{"predicate": { "custom_model_data": 2 }, "model": "custom/painting/box"},
+		{"predicate": { "custom_model_data": 3 }, "model": "custom/painting/compass"},
+		{"predicate": { "custom_model_data": 4 }, "model": "custom/painting/dodo"},
+		{"predicate": { "custom_model_data": 5 }, "model": "custom/painting/before_space"},
+		{"predicate": { "custom_model_data": 6 }, "model": "custom/painting/magnifier"},
+		{"predicate": { "custom_model_data": 7 }, "model": "custom/painting/moon"},
+		{"predicate": { "custom_model_data": 8 }, "model": "custom/painting/nailer"},
+		{"predicate": { "custom_model_data": 9 }, "model": "custom/painting/paddle"},
+		{"predicate": { "custom_model_data": 10 }, "model": "custom/painting/potato"},
+		{"predicate": { "custom_model_data": 11 }, "model": "custom/painting/red_justice"},
+		{"predicate": { "custom_model_data": 12 }, "model": "custom/painting/sugar_sunset"},
+		{"predicate": { "custom_model_data": 13 }, "model": "custom/painting/the_gun"},
+		{"predicate": { "custom_model_data": 14 }, "model": "custom/painting/tomate"},
+		{"predicate": { "custom_model_data": 15 }, "model": "custom/painting/sugar_sunset"},
+
+        {"predicate": { "custom_model_data": 100 }, "model": "custom:ui/icon/icon_empty"},
+        {"predicate": { "custom_model_data": 101 }, "model": "custom:ui/icon/icon_online"},
+        {"predicate": { "custom_model_data": 102 }, "model": "custom:ui/icon/icon_offline"},
+        {"predicate": { "custom_model_data": 103 }, "model": "custom:ui/icon/icon_offline"},
+        {"predicate": { "custom_model_data": 104 }, "model": "custom:ui/icon/icon_offline"},
+        {"predicate": { "custom_model_data": 105 }, "model": "custom:ui/icon/icon_offline"},
+        {"predicate": { "custom_model_data": 106 }, "model": "custom:ui/icon/icon_offline"},
+
+        {"predicate": { "custom_model_data": 200 }, "model": "custom:ui/buttons/button_quit"},
+        {"predicate": { "custom_model_data": 201 }, "model": "custom:ui/buttons/button_1"},
+        {"predicate": { "custom_model_data": 202 }, "model": "custom:ui/buttons/button_2"},
+        {"predicate": { "custom_model_data": 203 }, "model": "custom:ui/buttons/button_3"},
+        {"predicate": { "custom_model_data": 204 }, "model": "custom:ui/buttons/button_4"},
+        {"predicate": { "custom_model_data": 205 }, "model": "custom:ui/buttons/button_5"},
+        {"predicate": { "custom_model_data": 206 }, "model": "custom:ui/buttons/button_6"},
+        {"predicate": { "custom_model_data": 207 }, "model": "custom:ui/buttons/button_7"},
+        {"predicate": { "custom_model_data": 208 }, "model": "custom:ui/buttons/button_8"},
+        {"predicate": { "custom_model_data": 209 }, "model": "custom:ui/buttons/button_9"},
+        {"predicate": { "custom_model_data": 210 }, "model": "custom:ui/buttons/button_arrow_up"},
+        {"predicate": { "custom_model_data": 211 }, "model": "custom:ui/buttons/button_arrow_down"},
+        {"predicate": { "custom_model_data": 212 }, "model": "custom:ui/buttons/button_arrow_left"},
+        {"predicate": { "custom_model_data": 213 }, "model": "custom:ui/buttons/button_arrow_right"},
+        {"predicate": { "custom_model_data": 214 }, "model": "custom:ui/buttons/button_list"},
+        {"predicate": { "custom_model_data": 215 }, "model": "custom:ui/buttons/button_profile_friends_list"},
+        {"predicate": { "custom_model_data": 216 }, "model": "custom:ui/buttons/button_profile_friends_add"},
+        {"predicate": { "custom_model_data": 217 }, "model": "custom:ui/buttons/button_profile_friends_remove"},
+        {"predicate": { "custom_model_data": 218 }, "model": "custom:ui/buttons/button_add"},
+        {"predicate": { "custom_model_data": 219 }, "model": "custom:ui/buttons/button_locked"},
+        {"predicate": { "custom_model_data": 220 }, "model": "custom:ui/buttons/button_check"},
+        {"predicate": { "custom_model_data": 221 }, "model": "custom:ui/buttons/button_trade"},
+        
+		
+		
+		{"predicate": { "custom_model_data": 1000 }, "model": "accessories/planet_osa"},
+        {"predicate": { "custom_model_data": 10000 }, "model": "custom:item/ui/reroll_gui"}
+	]
+}

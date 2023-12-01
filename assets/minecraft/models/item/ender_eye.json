@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/ender_eye"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "custom:item/crystal_r" },
+    { "predicate": { "custom_model_data": 2 }, "model": "custom:item/crystal_g" },
+    { "predicate": { "custom_model_data": 3 }, "model": "custom:item/crystal_y" },
+    { "predicate": { "custom_model_data": 4 }, "model": "custom:item/crystal_b" }
+  ]
+}

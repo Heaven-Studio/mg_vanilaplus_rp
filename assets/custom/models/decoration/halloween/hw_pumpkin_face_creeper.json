@@ -1,0 +1,6 @@
+{
+	"parent": "custom:decoration/halloween/hw_pumpkin_face",
+	"textures": {
+		"face": "custom:item/decoration/halloween/hw_pumpkin_face_creeper"
+	}
+}

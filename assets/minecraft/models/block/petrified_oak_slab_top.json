@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "custom:block/guard_top",
+    "side": "custom:block/guard_side"
+  }
+}

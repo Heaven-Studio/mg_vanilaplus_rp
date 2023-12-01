@@ -1,0 +1,75 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "custom:item/cosmetic/hats/cowboys_shlyapa"
+	},
+	"elements": [
+		{
+			"from": [4, -0.0001, 3],
+			"to": [14, -0.0001, 13],
+			"faces": {
+				"up": {"uv": [5, 5, 0, 0], "texture": "#1"},
+				"down": {"uv": [10, 0, 5, 5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5, 0, 5],
+			"to": [11, 3, 11],
+			"faces": {
+				"north": {"uv": [0, 9.5, 3, 11], "texture": "#1"},
+				"east": {"uv": [3, 9.5, 6, 11], "texture": "#1"},
+				"south": {"uv": [6, 9.5, 9, 11], "texture": "#1"},
+				"west": {"uv": [9, 9.5, 12, 11], "texture": "#1"},
+				"up": {"uv": [6, 9.5, 3, 6.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4, 0, 3],
+			"to": [4, 3, 13],
+			"faces": {
+				"east": {"uv": [10, 5, 5, 6.5], "texture": "#1"},
+				"west": {"uv": [0, 5, 5, 6.5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.75, 4.25],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.75, 4.25],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"translation": [-4, 7.5, 6],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"translation": [-4, 7.5, 6],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 5.5, 0]
+		},
+		"head": {
+			"translation": [0, 18.75, 0],
+			"scale": [2.61, 2.28, 2.57]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16.25],
+			"scale": [2, 2, 2]
+		}
+	}
+}

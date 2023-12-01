@@ -1,0 +1,6 @@
+{
+	"parent": "item/bow",
+	"textures": {
+		"layer0": "custom:item/skin/soul/soul_bow_pulling_2"
+	}
+}

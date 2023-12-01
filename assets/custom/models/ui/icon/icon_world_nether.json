@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "custom:gui/icons/icon_world_nether"
+	},
+	"display": {
+		"gui": {
+			"scale": [0.95, 0.95, 0.95]
+		}
+	}
+}

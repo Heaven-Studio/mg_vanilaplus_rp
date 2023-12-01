@@ -1,0 +1,6 @@
+{
+	"parent": "custom:decoration/chibi/chibi_template_steve",
+	"textures": {
+		"skin": "custom:item/decoration/skins/andet"
+	}
+}

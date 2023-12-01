@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "custom:block/crate_bottom_1",
+    "particle": "minecraft:block/cobbled_deepslate",
+    "side": "custom:block/crate_side_cobbled_deepslate",
+    "top": "custom:block/crate_top_cobbled_deepslate"
+  }
+}

@@ -1,0 +1,103 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom:item/cosmetic/staff/code_armlet/code_matrix",
+		"1": "custom:item/cosmetic/staff/code_armlet/code_armlet",
+		"2": "custom:item/cosmetic/staff/code_armlet/code_armlet_overlay",
+		"particle": "custom:item/cosmetic/staff/code_armlet/code_armlet"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 1},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 1},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 1},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 1}
+			}
+		},
+		{
+			"name": "cube inverted",
+			"from": [16, 16, 16],
+			"to": [0, 0, 0],
+			"faces": {
+				"north": {"uv": [0, 16, 16, 0], "texture": "#0", "tintindex": 1},
+				"east": {"uv": [0, 16, 16, 0], "texture": "#0", "tintindex": 1},
+				"south": {"uv": [0, 16, 16, 0], "texture": "#0", "tintindex": 1},
+				"west": {"uv": [0, 16, 16, 0], "texture": "#0", "tintindex": 1}
+			}
+		},
+		{
+			"name": "braslet",
+			"from": [1, 4, 1],
+			"to": [15, 10, 15],
+			"faces": {
+				"north": {"uv": [0, 0, 14, 6], "texture": "#1"},
+				"east": {"uv": [0, 0, 14, 6], "texture": "#1"},
+				"south": {"uv": [0, 0, 14, 6], "texture": "#1"},
+				"west": {"uv": [0, 0, 14, 6], "texture": "#1"},
+				"up": {"uv": [14, 0, 16, 6], "texture": "#1"},
+				"down": {"uv": [14, 0, 16, 6], "texture": "#1"}
+			}
+		},
+		{
+			"name": "braslet",
+			"from": [1, 4, 1],
+			"to": [15, 10, 15],
+			"faces": {
+				"north": {"uv": [0, 0, 14, 6], "texture": "#2", "tintindex": 1},
+				"east": {"uv": [0, 0, 14, 6], "texture": "#2", "tintindex": 1},
+				"south": {"uv": [0, 0, 14, 6], "texture": "#2", "tintindex": 1},
+				"west": {"uv": [0, 0, 14, 6], "texture": "#2", "tintindex": 1}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2, 3.5],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2, 3.5],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"fixed": {
+			"translation": [0, 0, 7.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "code cube",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		},
+		2,
+		3
+	]
+}

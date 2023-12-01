@@ -1,0 +1,555 @@
+{
+	"providers": [
+        {
+            "type": "bitmap",
+			"file": "custom:ui/profile_tags.png",
+            "ascent": -13,
+            "height": 7,
+			"chars": [
+                "\uD001",
+                "\uD002",
+                "\uD003",
+                "\uD004",
+                "\uD005",
+                "\uD006",
+                "\uD007",
+                "\uD008",
+                "\uD009",
+                "\uD00a",
+                "\uD00b"
+            ]
+		},
+        {
+            "type": "bitmap",
+			"file": "custom:ui/icon/empty_helmet.png",
+			"ascent": -5,
+			"height": 16,
+			"chars": ["\uD011"]
+		},
+        {
+            "type": "bitmap",
+			"file": "custom:ui/icon/empty_chestplate.png",
+			"ascent": -23,
+			"height": 16,
+			"chars": ["\uD012"]
+		},
+        {
+            "type": "bitmap",
+			"file": "custom:ui/icon/empty_leggings.png",
+			"ascent": -41,
+			"height": 16,
+			"chars": ["\uD013"]
+		},
+        {
+            "type": "bitmap",
+			"file": "custom:ui/icon/empty_boots.png",
+			"ascent": -59,
+			"height": 16,
+            "chars": ["\uD014"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/icon/empty_hat.png",
+			"ascent": -5,
+			"height": 16,
+            "chars": ["\uD015"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "custom:ui/painting/painting_select.png",
+            "ascent": -3,
+            "height": 20,
+            "chars": ["\uD100"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/painting/painting_select.png",
+            "ascent": -21,
+            "height": 20,
+            "chars": ["\uD101"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/painting/painting_select.png",
+            "ascent": -39,
+            "height": 20,
+            "chars": ["\uD102"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/painting/painting_select.png",
+            "ascent": -75,
+            "height": 20,
+            "chars": ["\uD103"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/cosmetic/slot_colored.png",
+            "ascent": -5,
+            "height": 16,
+            "chars": ["\uD104"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/cosmetic/slot_colored.png",
+            "ascent": -23,
+            "height": 16,
+            "chars": ["\uD105"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/cosmetic/slot_colored.png",
+            "ascent": -41,
+            "height": 16,
+            "chars": ["\uD106"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/cosmetic/slot_colored.png",
+            "ascent": -59,
+            "height": 16,
+            "chars": ["\uD107"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/trade/frame_accepted.png",
+            "ascent": -1,
+            "height": 24,
+            "chars": ["\uD108"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/trade/frame_canceled.png",
+            "ascent": -1,
+            "height": 24,
+            "chars": ["\uD109"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/quest/quest_check.png",
+            "ascent": -63,
+            "height": 7,
+            "chars": ["\uD10a"]
+        },
+
+
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_profile.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_friends.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_profile_admin.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/world_cube/gui_world_cube.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/help.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_text_list.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_display.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_help_private.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/help_disable.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/recipes/recipe_list.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE00a"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/recipes/recipe_crafting_table.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE00b"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/cosmetic/gui_cosmetic.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE00c"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/painting/gui_painting.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE00d"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/world_cube/gui_world_cube_tester.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE00e"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/trade/gui_trade.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE00f"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_private.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/trade/gui_trade_money.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_friends_select.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_cart.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE013"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_pin_list.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE014"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/recipes/recipe_smithing.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE015"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/quest/gui_quest.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE016"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_birthday.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE017"]
+        },
+
+
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/home.png",
+			"ascent": -59,
+			"height": 16,
+            "chars": ["\uF001"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/friends_list.png",
+			"ascent": -5,
+			"height": 16,
+            "chars": ["\uF002"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/friends_send.png",
+			"ascent": -5,
+			"height": 16,
+            "chars": ["\uF003"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/friends_receive.png",
+			"ascent": -5,
+			"height": 16,
+            "chars": ["\uF004"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_up_lagre.png",
+			"ascent": -5,
+			"height": 52,
+            "chars": ["\uF005"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_down_lagre.png",
+			"ascent": -59,
+			"height": 52,
+            "chars": ["\uF006"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_left_large.png",
+			"ascent": -23,
+			"height": 52,
+            "chars": ["\uF007"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_right_large.png",
+			"ascent": -23,
+			"height": 52,
+            "chars": ["\uF008"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_book.png",
+			"ascent": -95,
+			"height": 16,
+            "chars": ["\uF009"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_cmd.png",
+			"ascent": -95,
+			"height": 16,
+            "chars": ["\uF00a"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/cosmetic/button_hat.png",
+			"ascent": -5,
+			"height": 17,
+            "chars": ["\uF00b"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/cosmetic/button_hat_select.png",
+			"ascent": -5,
+			"height": 17,
+            "chars": ["\uF00c"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/cosmetic/button_staff.png",
+			"ascent": -23,
+			"height": 17,
+            "chars": ["\uF00d"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/cosmetic/button_staff_select.png",
+			"ascent": -23,
+			"height": 17,
+            "chars": ["\uF00e"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/cosmetic/button_cape.png",
+			"ascent": -41,
+			"height": 17,
+            "chars": ["\uF00f"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/cosmetic/button_cape_select.png",
+			"ascent": -41,
+			"height": 17,
+            "chars": ["\uF010"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/world_cube/wc_button1.png",
+			"ascent": -5,
+			"height": 34,
+            "chars": ["\uF011"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/world_cube/wc_button2.png",
+			"ascent": -5,
+			"height": 34,
+            "chars": ["\uF012"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/world_cube/wc_button3.png",
+			"ascent": -5,
+			"height": 34,
+            "chars": ["\uF013"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/world_cube/wc_button4.png",
+			"ascent": -41,
+			"height": 34,
+            "chars": ["\uF014"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/world_cube/wc_button5.png",
+			"ascent": -41,
+			"height": 34,
+            "chars": ["\uF015"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/trade/button_accept.png",
+			"ascent": -5,
+			"height": 16,
+            "chars": ["\uF016"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/trade/button_cancel.png",
+			"ascent": -5,
+			"height": 16,
+            "chars": ["\uF017"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/trade/button_money_1.png",
+			"ascent": -23,
+			"height": 16,
+            "chars": ["\uF018"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/trade/button_money_10.png",
+			"ascent": -23,
+			"height": 16,
+            "chars": ["\uF019"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/trade/button_money_100.png",
+			"ascent": -23,
+			"height": 16,
+            "chars": ["\uF01a"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/trade/button_money_1k.png",
+			"ascent": -41,
+			"height": 16,
+            "chars": ["\uF01b"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/trade/button_money_10k.png",
+			"ascent": -41,
+			"height": 16,
+            "chars": ["\uF01c"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/trade/button_money_100k.png",
+			"ascent": -41,
+			"height": 16,
+            "chars": ["\uF01d"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/quest/button_accept.png",
+			"ascent": -22,
+			"height": 18,
+            "chars": ["\uF01e"]
+        },
+
+
+        {
+            "type": "bitmap",
+			"file": "custom:ui/display/boss/queenbee.png",
+			"ascent": 11,
+			"height": 102,
+            "chars": ["\uB001"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/display/boss/queenbee_color.png",
+			"ascent": 11,
+			"height": 102,
+            "chars": ["\uB002"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/display/boss/yeti.png",
+			"ascent": 11,
+			"height": 93,
+            "chars": ["\uB003"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/display/boss/yeti_color.png",
+			"ascent": 11,
+			"height": 93,
+            "chars": ["\uB004"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/display/boss/corruptedbrute.png",
+			"ascent": 11,
+			"height": 98,
+            "chars": ["\uB005"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/display/boss/corruptedbrute_color.png",
+			"ascent": 11,
+			"height": 98,
+            "chars": ["\uB006"]
+        }
+	]
+}

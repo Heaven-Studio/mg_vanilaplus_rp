@@ -1,0 +1,6 @@
+{
+	"parent": "custom:decoration/chibi/chibi_template_alex",
+	"textures": {
+		"skin": "custom:item/decoration/skins/jessiblack"
+	}
+}

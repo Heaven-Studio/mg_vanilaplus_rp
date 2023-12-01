@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "custom:block/crate_bottom_1",
+    "particle": "minecraft:block/red_sand",
+    "side": "custom:block/crate_side_red_sand",
+    "top": "custom:block/crate_top_red_sand"
+  }
+}

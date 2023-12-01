@@ -1,0 +1,98 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "custom:item/cosmetic/hats/halloween/pumpkin_hat",
+		"1": "custom:item/cosmetic/hats/halloween/h_soul_fire",
+		"particle": "custom:item/cosmetic/hats/halloween/pumpkin_hat"
+	},
+	"elements": [
+		{
+			"from": [3, 3, 3],
+			"to": [13, 13, 13],
+			"faces": {
+				"north": {"uv": [0, 8, 8, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"up": {"uv": [8, 0, 16, 8], "texture": "#0"},
+				"down": {"uv": [8, 0, 16, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.1, 3, 3.1],
+			"to": [12.9, 23, 12.901],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1", "tintindex": 1},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1", "tintindex": 1},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1", "tintindex": 1},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1", "tintindex": 1}
+			}
+		},
+		{
+			"from": [3.1, 13, 3.1],
+			"to": [12.9, 13.001, 12.9],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 13.0005, 3]},
+			"faces": {
+				"up": {"uv": [0, 16, 16, 0], "texture": "#1", "tintindex": 1}
+			}
+		},
+		{
+			"from": [3.1, 13, 3.1],
+			"to": [12.9, 13.001, 12.9],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [13, 13.0005, 8]},
+			"faces": {
+				"up": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#1", "tintindex": 1}
+			}
+		},
+		{
+			"from": [3.1, 13, 3.1],
+			"to": [12.9, 13.001, 12.9],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 13.0005, 13]},
+			"faces": {
+				"up": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#1", "tintindex": 1}
+			}
+		},
+		{
+			"from": [3.1, 13, 3.1],
+			"to": [12.9, 13.001, 12.9],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [3, 13.0005, 8]},
+			"faces": {
+				"up": {"uv": [0, 16, 16, 0], "rotation": 270, "texture": "#1", "tintindex": 1}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 115, 0],
+			"translation": [1, 4, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 115, 0],
+			"translation": [1, 4, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, -0.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "custom:block/crate_bottom_1",
+    "particle": "minecraft:block/andesite",
+    "side": "custom:block/crate_side_andesite",
+    "top": "custom:block/crate_top_andesite"
+  }
+}

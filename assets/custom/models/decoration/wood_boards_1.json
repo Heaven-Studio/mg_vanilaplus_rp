@@ -1,0 +1,109 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"1": "custom:item/decoration/wood_boards",
+		"particle": "custom:item/decoration/wood_boards"
+	},
+	"elements": [
+		{
+			"from": [-15.22836, 0, 14.83941],
+			"to": [24.77164, 2, 18.83941],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 0, 10]},
+			"faces": {
+				"north": {"uv": [0.125, 4, 5.125, 4.25], "texture": "#1"},
+				"east": {"uv": [5, 2.75, 5.5, 3], "texture": "#1"},
+				"south": {"uv": [0.125, 4, 5.125, 4.25], "texture": "#1"},
+				"west": {"uv": [5, 2.75, 5.5, 3], "texture": "#1"},
+				"up": {"uv": [5, 2.5, 0, 2], "texture": "#1"},
+				"down": {"uv": [5, 2, 0, 2.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-11, 0, 3],
+			"to": [32, 2, 7],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [9, 0, 4]},
+			"faces": {
+				"north": {"uv": [0, 4, 5.375, 4.25], "texture": "#1"},
+				"east": {"uv": [5, 2.75, 5.5, 3], "texture": "#1"},
+				"south": {"uv": [0, 4, 5.375, 4.25], "texture": "#1"},
+				"west": {"uv": [5, 2.75, 5.5, 3], "texture": "#1"},
+				"up": {"uv": [5.375, 0.5, 0, 0], "texture": "#1"},
+				"down": {"uv": [5.375, 0, 0, 0.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-11.22836, 0, 8.83941],
+			"to": [31.77164, 2, 12.83941],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 0, 10]},
+			"faces": {
+				"north": {"uv": [0, 4, 5.375, 4.25], "texture": "#1"},
+				"east": {"uv": [5, 2.75, 5.5, 3], "texture": "#1"},
+				"south": {"uv": [0, 4, 5.375, 4.25], "texture": "#1"},
+				"west": {"uv": [5, 2.75, 5.5, 3], "texture": "#1"},
+				"up": {"uv": [5.375, 0.5, 0, 0], "texture": "#1"},
+				"down": {"uv": [5.375, 0, 0, 0.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-15.22836, 2, 6.83941],
+			"to": [24.77164, 4, 10.83941],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 0, 10]},
+			"faces": {
+				"north": {"uv": [0.125, 4, 5.125, 4.25], "texture": "#1"},
+				"east": {"uv": [5, 2.75, 5.5, 3], "texture": "#1"},
+				"south": {"uv": [0, 4.25, 5, 4], "texture": "#1"},
+				"west": {"uv": [5, 2.75, 5.5, 3], "texture": "#1"},
+				"up": {"uv": [5, 2.5, 0, 2], "texture": "#1"},
+				"down": {"uv": [5, 2, 0, 2.5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [70, 80, 0],
+			"translation": [0, 2.5, 2],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [70, 130, 0],
+			"translation": [0, 2.5, 2],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 3, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 4, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [1.5, 3, 0],
+			"scale": [0.56, 0.56, 0.56]
+		},
+		"head": {
+			"translation": [0, 14.5, -2.5]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "wood_boards",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}
