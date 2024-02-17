@@ -7,6 +7,9 @@
     [
         {"predicate": { "custom_model_data": 1 }, "model": "custom:ui/pin/pin_beta"},
         {"predicate": { "custom_model_data": 2 }, "model": "custom:ui/pin/pin_owner"},
-        {"predicate": { "custom_model_data": 3 }, "model": "custom:ui/pin/pin_coowner"}
+        {"predicate": { "custom_model_data": 3 }, "model": "custom:ui/pin/pin_coowner"},
+        {"predicate": { "custom_model_data": 4 }, "model": "custom:ui/pin/pin_hw_2023"},
+        {"predicate": { "custom_model_data": 5 }, "model": "custom:ui/pin/pin_build_hw_2023"},
+        {"predicate": { "custom_model_data": 6 }, "model": "custom:ui/pin/pin_build_hw_2023_win"}
     ]
 }

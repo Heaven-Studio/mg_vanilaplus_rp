@@ -1,0 +1,9 @@
+{
+	"parent": "statue/templates/model-1-max",
+	"textures": {
+		"skin": "item/custom/models/skins/2",
+		"pickaxe": "item/custom/models/surrounding_objects/pickaxe",
+		"log": "item/custom/models/surrounding_objects/log",
+		"log_top": "item/custom/models/surrounding_objects/log_top"
+	}
+}

@@ -12,6 +12,7 @@
     "item.crystal.teleport": "Кристалл телепортации",
     "item.token.admin": "Админ токен",
     "item.token.bug": "Баг токен",
+    "item.totem.keeping": "Тотем сохранения",
 
     "block.private": "Блок региона",
     "block.crate.cobblestone": "Ящик булыжника",
@@ -52,6 +53,9 @@
     "decoration.hw.bone.pile": "Груда костей",
     "decoration.hw.pumpkin.small": "Маленькая тыква",
     "decoration.hw.basket.sweets": "Корзинка сладостей",
+    "decoration.cup.gold": "Золотой кубок",
+    "decoration.cup.silver": "Серебряный кубок",
+    "decoration.cup.bronze": "Бронзовый кубок",
 
     "enchantment.safety": "Сохранность"
 }

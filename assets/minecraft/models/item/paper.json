@@ -25,7 +25,7 @@
         {"predicate": { "custom_model_data": 100 }, "model": "custom:ui/icon/icon_empty"},
         {"predicate": { "custom_model_data": 101 }, "model": "custom:ui/icon/icon_online"},
         {"predicate": { "custom_model_data": 102 }, "model": "custom:ui/icon/icon_offline"},
-        {"predicate": { "custom_model_data": 103 }, "model": "custom:ui/icon/icon_offline"},
+        {"predicate": { "custom_model_data": 103 }, "model": "custom:ui/icon/icon_mail"},
         {"predicate": { "custom_model_data": 104 }, "model": "custom:ui/icon/icon_offline"},
         {"predicate": { "custom_model_data": 105 }, "model": "custom:ui/icon/icon_offline"},
         {"predicate": { "custom_model_data": 106 }, "model": "custom:ui/icon/icon_offline"},

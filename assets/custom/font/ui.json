@@ -295,6 +295,20 @@
             "height": 256,
             "chars": ["\uE017"]
         },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_mailbox.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE018"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/merchant.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE019"]
+        },
 
 
         {
@@ -506,6 +520,48 @@
 			"ascent": -22,
 			"height": 18,
             "chars": ["\uF01e"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_mailbox_message.png",
+			"ascent": -4,
+			"height": 18,
+            "chars": ["\uF01f"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_mailbox_gift.png",
+			"ascent": -22,
+			"height": 18,
+            "chars": ["\uF020"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_mailbox_reward.png",
+			"ascent": -40,
+			"height": 18,
+            "chars": ["\uF021"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_mailbox_archive.png",
+			"ascent": -58,
+			"height": 18,
+            "chars": ["\uF022"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_mailbox_archive.png",
+			"ascent": -58,
+			"height": 18,
+            "chars": ["\uF022"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_mailbox_archive.png",
+			"ascent": -58,
+			"height": 18,
+            "chars": ["\uF022"]
         },
 
 

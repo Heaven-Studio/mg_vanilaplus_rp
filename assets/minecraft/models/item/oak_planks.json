@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/oak_planks",
-	"overrides": 
-	[
-		{"predicate": { "custom_model_data": 1 }, "model": "custom:block/vertical_oak_planks"}
-	]
-}

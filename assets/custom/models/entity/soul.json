@@ -1,0 +1,99 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom:item/entity/sould",
+		"particle": "custom:item/entity/sould"
+	},
+	"elements": [
+		{
+			"name": "Чероп",
+			"from": [4.4, 5.4, 4.4],
+			"to": [11.6, 10.8, 11.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-6.4, 0, -6.4]},
+			"faces": {
+				"north": {"uv": [0, 3, 4, 6], "texture": "#0"},
+				"east": {"uv": [0, 3, 4, 6], "texture": "#0"},
+				"south": {"uv": [0, 3, 4, 6], "texture": "#0"},
+				"west": {"uv": [0, 3, 4, 6], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Челюсть",
+			"from": [4.4, 3.6, 4.4],
+			"to": [11.6, 5.4, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-6.4, 0, -6.4]},
+			"faces": {
+				"north": {"uv": [0, 5, 4, 6], "texture": "#0"},
+				"east": {"uv": [2, 5, 0, 6], "texture": "#0"},
+				"south": {"uv": [0, 4, 4, 5], "texture": "#0"},
+				"west": {"uv": [4, 5, 2, 6], "texture": "#0"},
+				"down": {"uv": [0, 5, 4, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "L",
+			"from": [5.3, 6.3, 4.22],
+			"to": [7.1, 8.1, 6.02],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-6.4, 0, -6.4]},
+			"faces": {
+				"north": {"uv": [4, 0, 5, 1], "texture": "#0"},
+				"east": {"uv": [4, 0, 5, 1], "texture": "#0"},
+				"west": {"uv": [4, 0, 5, 1], "texture": "#0"},
+				"up": {"uv": [4, 0, 5, 1], "texture": "#0"},
+				"down": {"uv": [4, 0, 5, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "R",
+			"from": [8.9, 6.3, 4.22],
+			"to": [10.7, 8.1, 6.02],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-6.4, 0, -6.4]},
+			"faces": {
+				"north": {"uv": [4, 0, 5, 1], "texture": "#0"},
+				"east": {"uv": [4, 0, 5, 1], "texture": "#0"},
+				"west": {"uv": [4, 0, 5, 1], "texture": "#0"},
+				"up": {"uv": [4, 0, 5, 1], "texture": "#0"},
+				"down": {"uv": [4, 0, 5, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Основной Куб",
+			"from": [2.6, 1.8, 2.6],
+			"to": [13.4, 12.6, 13.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-6.4, 0, -6.4]},
+			"faces": {
+				"north": {"uv": [0, 7, 6, 13], "texture": "#0"},
+				"east": {"uv": [0, 7, 6, 13], "texture": "#0"},
+				"south": {"uv": [0, 7, 6, 13], "texture": "#0"},
+				"west": {"uv": [0, 7, 6, 13], "texture": "#0"},
+				"up": {"uv": [0, 7, 6, 13], "texture": "#0"},
+				"down": {"uv": [0, 7, 6, 13], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Череп",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [
+				0,
+				1,
+				{
+					"name": "Глаза",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [2, 3]
+				}
+			]
+		},
+		{
+			"name": "Аура",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [4]
+		}
+	]
+}

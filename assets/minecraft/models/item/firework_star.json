@@ -33,6 +33,7 @@
       { "predicate": { "custom_model_data": 1025 }, "model": "custom:cosmetic/hats/halloween/hw_ghost_hat" },
       { "predicate": { "custom_model_data": 1026 }, "model": "custom:cosmetic/hats/halloween/hw_bolt_hat" },
       { "predicate": { "custom_model_data": 1027 }, "model": "custom:cosmetic/hats/halloween/hw_mummy_hat" },
+      { "predicate": { "custom_model_data": 1028 }, "model": "custom:cosmetic/hats/build_win_hat" },
 
       { "predicate": { "custom_model_data": 2001 }, "model": "custom:cosmetic/staff/code_armlet" },
 
@@ -107,6 +108,7 @@
       { "predicate": { "custom_model_data": 5069 }, "model": "custom:decoration/chibi/chibi_vorobeyi" },
       { "predicate": { "custom_model_data": 5070 }, "model": "custom:decoration/chibi/chibi_therealdgrew" },
       { "predicate": { "custom_model_data": 5071 }, "model": "custom:decoration/chibi/chibi_cabi_a" },
-      { "predicate": { "custom_model_data": 5072 }, "model": "custom:decoration/chibi/chibi_lapa335" }
+      { "predicate": { "custom_model_data": 5072 }, "model": "custom:decoration/chibi/chibi_lapa335" },
+      { "predicate": { "custom_model_data": 5073 }, "model": "custom:decoration/halloween/cup_build_hw" }
     ]
 }

@@ -1,0 +1,116 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-king.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE001"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-admin.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE002"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-build.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE003"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-designer.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE004"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-vip.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE005"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-player.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE006"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-global.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE007"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-chat.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE008"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-king-icon.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE009"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-admin-icon.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE00a"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-build-icon.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE00b"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-designer-icon.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE00c"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-vip-icon.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE00d"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-player-icon.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE00e"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-moder.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE00f"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/tag-moder-icon.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE010"]
+		}
+	]
+}

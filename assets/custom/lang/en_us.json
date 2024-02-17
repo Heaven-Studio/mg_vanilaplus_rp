@@ -1,9 +1,9 @@
 ﻿    {
     "container.inventory":" ",
     "merchant.trades":" ",
-    "menu.shareToLan":"§fOuterHeaven",
 
     "screen.blank": "\uD001",
+    "screen.tab": "\uD002",
 
     "chat.tag.admin": "\uE001",
     "chat.tag.mod": "\uE002",
@@ -77,6 +77,8 @@
     "gui.recipe.smithing": "\uE015",
     "gui.quest": "\uE016",
     "gui.birthday": "\uE017",
+    "gui.mailbox": "\uE018",
+    "gui.merchant": "\uE019",
 
     "gui.painting.select.1": "\uD100",
     "gui.painting.select.2": "\uD101",
@@ -145,6 +147,12 @@
     "button.money.10k": "\uF01c",
     "button.money.100k": "\uF01d",
     "button.accapt.quest": "\uF01e",
+    "button.mailbox.message": "\uF01f",
+    "button.mailbox.gift": "\uF020",
+    "button.mailbox.reward": "\uF021",
+    "button.mailbox.archive": "\uF022",
+    "button.page.prev": "\uF000",
+    "button.page.next": "\uF001",
 
     "dialogue.cloud": "\uE001",
     "dialogue.gid": "\uD001",
@@ -154,6 +162,9 @@
     "dialogue.discord": "\uD005",
     "dialogue.quest.complite": "\uD006",
     "dialogue.halloween": "\uD007",
+
+    "bossbar.background.center": "\uB000",
+    "bossbar.background.end": "\uB001",
 
     "item.hammer.iron": "Iron Hammer",
     "item.hammer.golden": "Golden Hammer",
@@ -209,6 +220,9 @@
     "decoration.hw.bone.pile": "Bone Pile",
     "decoration.hw.pumpkin.small": "Small Pumpkin",
     "decoration.hw.basket.sweets": "Basket of Sweets",
+    "decoration.cup.gold": "Golden Cup",
+    "decoration.cup.silver": "Silver Cup",
+    "decoration.cup.bronze": "Bronze Cup",
 
     "enchantment.safety": "Safety"
 }

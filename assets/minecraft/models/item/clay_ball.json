@@ -6,6 +6,6 @@
 	},
 	"overrides": 
 	[
-		{"predicate": { "custom_model_data": 1 }, "model": "custom:entity/spirit"}
+		{"predicate": { "custom_model_data": 1 }, "model": "custom:entity/soul"}
 	]
 }

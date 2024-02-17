@@ -10,7 +10,7 @@
         {
 			"type": "bitmap",
             "file": "minecraft:font/nonlatin_european.png",
-            "ascent": -99,
+            "ascent": -100,
             "chars": [
                 "\u00a1\u2030\u00ad\u00b7\u20b4\u2260\u00bf\u00d7\u00d8\u00de\u04bb\u00f0\u00f8\u00fe\u0391\u0392",
                 "\u0393\u0394\u0395\u0396\u0397\u0398\u0399\u039a\u039b\u039c\u039d\u039e\u039f\u03a0\u03a1\u03a3",
@@ -83,7 +83,7 @@
             "type": "bitmap",
             "file": "minecraft:font/accented.png",
             "height": 12,
-            "ascent": -96,
+            "ascent": -100,
             "chars": [
                 "\u00c0\u00c1\u00c2\u00c3\u00c4\u00c5\u00c6\u00c7\u00c8\u00c9\u00ca\u00cb\u00cc\u00cd\u00ce\u00cf",
                 "\u00d0\u00d1\u00d2\u00d3\u00d4\u00d5\u00d6\u00d9\u00da\u00db\u00dc\u00dd\u00e0\u00e1\u00e2\u00e3",
@@ -165,7 +165,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/ascii.png",
-            "ascent": -99,
+            "ascent": -100,
             "chars": [
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
@@ -184,6 +184,20 @@
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u2205\u2208\u0000",
                 "\u2261\u00b1\u2265\u2264\u2320\u2321\u00f7\u2248\u00b0\u2219\u00b7\u221a\u207f\u00b2\u25a0\u0000"
             ]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_prev.png",
+			"ascent": -97,
+			"height": 14,
+            "chars": ["\uF000"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_next.png",
+			"ascent": -97,
+			"height": 14,
+            "chars": ["\uF001"]
         }
 	]
 }
